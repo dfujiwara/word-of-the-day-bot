@@ -61,7 +61,7 @@ function getUnseenWord (words) {
     if (viewedURLSet.has(word.url)) {
       newViewedURLs.push(word.url)
     } else {
-      unseenWord = unseenWord || word 
+      unseenWord = unseenWord || word
     }
   })
   if (unseenWord) {
