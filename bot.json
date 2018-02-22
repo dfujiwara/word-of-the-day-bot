@@ -1,0 +1,8 @@
+{
+    "muxbots_lib_version": "0.2",
+    "type": "feedbot",
+    "title": "Word of the Day from Merriam-Webster",
+    "intro_message": "Subscribe to get expand your vocabulary!",
+    "image": "https://www.merriam-webster.com/assets/mw/static/app-standalone-images/MW_logo.png",
+    "source_url": "word_of_the_day.js"
+}
