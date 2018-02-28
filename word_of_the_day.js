@@ -49,7 +49,7 @@ function shouldFetchRSS () {
 
 function getURL (item) {
   const results = /<link><!\[CDATA\[(.*)\]\]><\/link>/.exec(item)
-  return results[1]
+  return encodeURI(results[1])
 }
 
 function getUnseenWord (words) {
