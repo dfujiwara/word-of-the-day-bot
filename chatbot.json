@@ -1,5 +1,5 @@
 {
-    "muxbots_lib_version": "0.2",
+    "muxbots_lib_version": "1.0",
     "type": "feedbot",
     "title": "Word of the Day from Merriam-Webster",
     "intro_message": "Subscribe to get your vocabulary!",
