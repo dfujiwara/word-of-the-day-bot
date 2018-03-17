@@ -5,5 +5,5 @@
     "intro_message": "Subscribe to get your vocabulary!",
     "image": "https://www.merriam-webster.com/assets/mw/static/app-standalone-images/MW_logo.png",
     "source_url": "word_of_the_day.js",
-    "publish_url": "https://dfujiwara.github.io/word-of-the-day-bot/chatbot.json"
+    "published_url": "https://dfujiwara.github.io/word-of-the-day-bot/chatbot.json"
 }
