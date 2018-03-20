@@ -51,7 +51,7 @@ function shouldFetchRSS () {
   }
   const currentDate = new Date()
   // 5 minutes time interval.
-  return (currentDate.getTime() - lastFetchTime) < 300000
+  return (currentDate.getTime() - lastFetchTime) > 300000
 }
 
 function getURL (item) {
